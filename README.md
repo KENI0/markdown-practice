@@ -36,3 +36,12 @@ fucntion func() {
 static | 기준 없음 | 0
 relative | 요소 자신 | x 
 ---
+
+````html
+
+<div class="fruit">
+  fruits! 
+  </div>
+
+````
+
